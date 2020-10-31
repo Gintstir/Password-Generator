@@ -2,14 +2,14 @@
 
 This is the completed third weekly challenge for the UPENN LPS Coding Bootcamp.
 The project required us to take an existing index.html with a correspong style.css and create a script.js that would run the asked for program.  Namely, the JS(Javascript) code we were asked to write, required us to prompt the user about a number of criteria:
-**(required)**
-- How long the user wished the pw(password) to be.
-    - the pw must be between 8 and 128 chracters long.
-**(Optional- but the user must pick at least one of the following option)**
-- If the user wished to include lowercase letters (a-z).
-- If the user wished to include uppercase letters (A-Z).
-- If the user wished to include numers (0-9).
-- If the user wished to include special characters (!,@,#,$,%,^,",&,*, etc.)
+- **(required)**
+    - How long the user wished the pw(password) to be.
+        - the pw must be between 8 and 128 chracters long.
+- **(Optional- but the user must pick at least one of the following option)**
+    - If the user wished to include lowercase letters (a-z).
+    - If the user wished to include uppercase letters (A-Z).
+    - If the user wished to include numers (0-9).
+    - If the user wished to include special characters (!,@,#,$,%,^,",&,*, etc.)
 The preceding criteria are then used to generate a random password. 
 
 ## **Link**
